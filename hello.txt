@@ -1,0 +1,4 @@
+Steps
+1.Initialised git - git init 
+2. git status
+3. Add files in staging area- git add .(. means add files)
