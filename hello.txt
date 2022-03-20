@@ -3,3 +3,8 @@ Steps
 2. git status
 3. Add files in staging area- git add .(. means add files)
 4. Commit - git commit -m "message"
+git remote add origin https://github.com/aartii05/Web_Development.git 
+git branch -M main
+git push -u origin main
+git config --global user.name  
+git config --global user.email  
