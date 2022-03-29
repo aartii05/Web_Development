@@ -11,8 +11,9 @@
   "bin": {
     "wcathw": "wcat.js"
   },
-  "description": "",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
